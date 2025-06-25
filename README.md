@@ -1,6 +1,6 @@
 <!-- Profile Header with Banner -->
 <div align="center">
-  <img src="./resources/banner.png" alt="Profile Banner" width="100%">
+  <img src="https://i.ibb.co/VpPvbfWJ/banner-1.png" alt="Profile Banner" width="100%">
   <h1>MD. Arifur Rahman Sajid</h1>
   <h3>Frontend Developer | JavaScript Enthusiast</h3>
   <p>📍 Dhaka, Bangladesh | 📧 arifursajid3456@gmail.com</p>
@@ -9,13 +9,24 @@
 <!-- About Me Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25"> About Me
 
-I'm a passionate frontend developer from Bangladesh specializing in modern web technologies. I enjoy creating responsive, accessible web applications with clean code and intuitive user interfaces.
+I'm a full-stack developer and machine learning enthusiast from Bangladesh with expertise spanning web development, embedded systems, and computer vision. My passion lies at the intersection of cutting-edge technology and practical implementation.
 
-**Current Activities:**
-- 🔭 Working on a tourism website using React.js
-- 🌱 Learning Next.js and advanced React patterns
-- 👯 Collaborating on open-source projects
-- 💬 Ask me about JavaScript, React, or UI/UX design
+**Technical Proficiencies:**
+- **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS, Easy UI, React.js
+- **Backend:** Express.js, MongoDB
+- **Machine Learning:** 
+  - Traditional ML: XGBoost, Random Forest
+  - Deep Learning: Hybrid ViT, CNN models
+  - Architectures: VGG19, Inception V3, ResNet50
+  - Self-supervised learning techniques
+- **Embedded Systems:** Arduino Uno programming
+- **Computer Graphics:** OpenGL development
+
+**Current Focus:**
+- 🔭 Developing a computer vision-based analytics platform using ResNet50
+- 🌱 Exploring self-supervised learning applications
+- 🛠️ Building IoT solutions with Arduino and OpenGL visualization
+- 💻 Creating full-stack applications with MERN stack
 
 <!-- Skills Section with Icons -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"> Skills
