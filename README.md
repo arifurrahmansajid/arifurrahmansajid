@@ -67,7 +67,8 @@ I'm a full-stack developer and machine learning enthusiast from Bangladesh with 
 
 <div align="center">
   <a href="https://github.com/arifurrahmansajid/credit-card-fraud-detection-xgboost">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arifurrahmansajid&repo=repo1&theme=radical" width="45%">
+    <p>Credit Card Fraud Detection with XGBoost
+A machine learning project for detecting fraudulent credit card transactions using the XGBoost algorithm. This repository demonstrates data preprocessing, model training, evaluation, and deployment for a binary classification problem using real-world credit card transaction data.</p>
   </a>
   <a href="https://github.com/arifurrahmansajid/repo2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arifurrahmansajid&repo=repo2&theme=radical" width="45%">
