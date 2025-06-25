@@ -45,7 +45,7 @@ I'm a full-stack developer and machine learning enthusiast from Bangladesh with 
 </div>
 
 <!-- Social Links -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Handshake.png" width="25"> Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
@@ -66,7 +66,7 @@ I'm a full-stack developer and machine learning enthusiast from Bangladesh with 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="25"> Pinned Repositories
 
 <div align="center">
-  <a href="https://github.com/arifurrahmansajid/repo1">
+  <a href="https://github.com/arifurrahmansajid/credit-card-fraud-detection-xgboost">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arifurrahmansajid&repo=repo1&theme=radical" width="45%">
   </a>
   <a href="https://github.com/arifurrahmansajid/repo2">
