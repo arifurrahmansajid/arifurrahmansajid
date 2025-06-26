@@ -34,7 +34,7 @@ I'm a passionate developer with expertise in both web technologies and machine l
 </div>
 
 <!-- Social Links -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Handshake.png" width="25"> Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arifursajid3456" target="_blank">
